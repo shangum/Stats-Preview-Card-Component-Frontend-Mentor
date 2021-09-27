@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Hosted By Github Pages](https://your-solution-url.com)
+- Solution URL: [Hosted By Github Pages](https://shangum.github.io/Stats-Preview-Card-Component-Frontend-Mentor/)
 
 ## My process
 
