@@ -18,8 +18,7 @@
     background-color: hsl(277, 64%, 61%);
     display: flex;
     flex-direction: row-reverse;        
-    margin: 10% auto 10% auto;    
-    padding: 10em 0 10em, 0;    
+    margin: 10% auto 10% auto;        
     border-top-left-radius: 0.667em;
     border-top-right-radius: 0.667em;
     border-bottom-left-radius: 0.667em;
@@ -175,8 +174,7 @@
         background-color: hsl(277, 64%, 61%);
         display: flex;
         flex-direction: column;            
-        margin: 5em auto 5em auto;        
-        padding: 10em 0 10em, 0;        
+        margin: 5em auto 5em auto;                        
         border-top-left-radius: 0.667em;
         border-top-right-radius: 0.667em;
         border-bottom-left-radius: 0.667em;
